@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CodeChallenge5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Please enter your name</string>
+    <string name="login">Login</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+</resources>
