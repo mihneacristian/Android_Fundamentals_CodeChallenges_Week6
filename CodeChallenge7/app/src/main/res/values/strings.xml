@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CodeChallenge7</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movie_title">Django Unchained</string>
+    <string name="my_favorite_pet">My favorite pet ...</string>
+    <string name="dog">My dog</string>
+    <string name="food">Spaghetti</string>
+</resources>
