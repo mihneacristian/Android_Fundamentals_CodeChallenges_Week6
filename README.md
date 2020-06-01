@@ -8,11 +8,16 @@ Android Fundamentals - Code Challenges (Week 6) - Google Atelierul Digital pentr
 </p>
 <br />
 <p align="center">
-    <img src="https://i.imgur.com/052ysYA.jpg" height="400"/>
+    <img src="https://i.imgur.com/052ysYA.jpg" width="200" height="400"/>
     <img src="https://i.imgur.com/o9tSHAc.jpg" width="200" height="400"/>
 </p>
 <br />
 <p align="center">
-    <img src="https://i.imgur.com/052ysYA.jpg" height="400"/>
-    <img src="https://i.imgur.com/o9tSHAc.jpg" width="200" height="400"/>
+    <img src="https://i.imgur.com/M3hykYb.jpg" width="200" height="400"/>
+    <img src="https://i.imgur.com/wKsspFc.jpg" width="200" height="400"/>
+</p>
+<br />
+<p align="center">
+    <img src="https://i.imgur.com/M3hykYb.jpg" width="200" height="400"/>
+    <img src="https://i.imgur.com/wKsspFc.jpg" width="200" height="400"/>
 </p>
